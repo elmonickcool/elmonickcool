@@ -5,8 +5,8 @@
 - 
 - 📫 How to reach me ...
 - IG: elmonickcool
-- Twitter : elmoonickcool
-- 
+- Twitter: elmoonickcool
+- Facebook: elmo.nickol
 
 <!---
 elmonickcool/elmonickcool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
