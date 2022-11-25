@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmonickcool a Self-taught Web Developer and Self-Taught Data Scientist
-- 👀 I’m interested in Web Developing, Data Analysis, Data Science, PHP 
-- 🌱 I’m currently learning Wordpress, JavaScript, Python, Machine Learning 
+- 👀 I’m interested in Full Stack Web Development, Data Analysis and Web Application Development
+- 🌱 I’m currently learning Javascript Framework and PHP 
 - 💞️ I’m looking to collaborate on Web Application Development, Software Development and Data Analysis
 - 
 - 📫 How to reach me ...
