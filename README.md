@@ -8,6 +8,14 @@
 - Twitter: elmoonickcool
 - Facebook: elmo.nickol
 
+- Project in progress
+- Pokemon Web Application
+- Pokedex
+- Project to plan
+- Weather API
+- Star Wars API
+- 
+
 <!---
 elmonickcool/elmonickcool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
