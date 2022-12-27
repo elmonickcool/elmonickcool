@@ -14,6 +14,8 @@
 - Project to plan
 - Weather API
 - Star Wars API
+- News API
+- Recipe API
 - 
 
 <!---
