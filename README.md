@@ -7,8 +7,9 @@
 - IG: elmonickcool
 - Twitter: elmoonickcool
 - Facebook: elmo.nickol
-
-- Project in progress
+-
+- <h1>Project in progress</h1>
+- 
 - Pokemon Web Application
 - Pokedex
 - Project to plan
