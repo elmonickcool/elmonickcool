@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elmo Nickol</h1>
 <h3 align="center">A future full-stack developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmonickcool" alt="elmonickcool" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=elmonickcool" alt="elmonickcool" /></a> </p>
 
 - 🔭 I’m currently working on [Pokemon Clone with Pokedex App](https://github.com/elmonickcool/proj2-1)
 
