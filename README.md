@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elmo Nickol</h1>
 <h3 align="center">A future full-stack developer from Philippines</h3>
 
-- 🔭 I’m currently working on [Pokemon Clone with Pokedex App](https://github.com/elmonickcool/proj2-1)
+- 🔭 I’m currently working on [Pokemon Clone with Pokedex App](https://github.com/januspaul/proj2)
 
 - 🌱 I’m currently learning **ReactJS, Laravel**
+
+- 👯 I’m looking to collaborate on **Money Tracking App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elmonickcool](https://github.com/elmonickcool)
 
@@ -13,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/elmoonickcool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmoonickcool" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elmonickcool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmonickcool" height="30" width="40" /></a>
+<a href="https://fb.com/elmo.nickol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elmo.nickol" height="30" width="40" /></a>
 <a href="https://instagram.com/elmonickcool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elmonickcool" height="30" width="40" /></a>
 </p>
 
