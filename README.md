@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elmonickcool"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elmonickcool" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmonickcool&show_icons=true&theme=synthwave&locale=en" alt="elmonickcool" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmonickcool&show_icons=true&locale=en&layout=compact" alt="elmonickcool" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmonickcool&theme=dark" alt="elmonickcool" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmonickcool&show_icons=true&theme=synthwave&locale=en" alt="elmonickcool" /></p>
