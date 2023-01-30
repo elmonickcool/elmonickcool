@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Livewire**
 
-- 👯 I’m looking to collaborate on **Mone Tracker**
+- 👯 I’m looking to collaborate on **Money Tracker**
 
 - 💬 Ask me about **React, PHP, JavaScript**
 
