@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sweldo App (Payroll System)](https://github.com/jasonlerit/capstone-sweldo-app)
 
-- 🌱 I’m currently learning **Laravel, Livewire**
+- 🌱 I’m currently learning **Advance Laravel**
 
 - 👯 I’m looking to collaborate on **Money Tracker**
 
