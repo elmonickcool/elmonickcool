@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elmoonickcool" target="blank"><img src="https://img.shields.io/twitter/follow/elmoonickcool?logo=twitter&style=for-the-badge" alt="elmoonickcool" /></a> </p>
 
-- 🔭 I’m currently working on [Sweldo App (Payroll System)](https://github.com/PrgDominique/sweldo-app-server)
+- 🔭 I’m currently working on [Sweldo App (Payroll System)](https://github.com/jasonlerit/capstone-sweldo-app)
 
 - 🌱 I’m currently learning **Laravel, Livewire**
 
