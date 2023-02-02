@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmonickcool&theme=dark" alt="elmonickcool" /></p>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12169320324)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12169320324)
