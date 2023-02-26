@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/elmonickcool/my_portfolio)
 
-- 🌱 I’m currently learning **Advance Laravel**
+- 🌱 I’m currently learning **Advance Laravel, C#**
 
 - 👯 I’m looking to collaborate on **Money Tracker**
 
