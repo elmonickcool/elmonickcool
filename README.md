@@ -35,6 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmonickcool&show_icons=true&theme=synthwave&locale=en&count_private=true" alt="elmonickcool" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmonickcool&theme=dark" alt="elmonickcool" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elmonickcool" alt="elmonickcool"/><p>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
