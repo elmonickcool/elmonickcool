@@ -39,4 +39,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=12169320324" alt="spotify">
+<img src="https://www.codewars.com/users/elmonickcool/badges/large" alt="codewars">
 
