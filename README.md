@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/elmonickcool/my-netflix-clone-app) and [AseanTours](https://github.com/elmonickcool/AseanTours)
 
-- 🌱 I’m currently learning **Advance Laravel, C#**
+- 🌱 I’m currently learning **Advance Laravel, C#, Advance Java**
 
 - 👯 I’m looking to collaborate on **Money Tracker**
 
