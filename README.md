@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/elmoonickcool" target="blank"><img src="https://img.shields.io/twitter/follow/elmoonickcool?logo=twitter&style=for-the-badge" alt="elmoonickcool" /></a> </p>
 
-- 🔭 I’m currently working on [Wishlist Tracker](https://github.com/elmonickcool/wishlist-jar-app) and [AseanTours](https://github.com/elmonickcool/AseanTours)
+- 🔭 I’m currently working on back to basic
 
-- 🌱 I’m currently learning **Advance Laravel, C#, Advance Java**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Money Tracker**
+- 👯 I’m looking to collaborate on something new project
 
 - 💬 Ask me about **React, PHP, JavaScript**
 
