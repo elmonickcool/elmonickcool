@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on back to basic
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and **TALL Stack**
 
 - 👯 I’m looking to collaborate on something new project
 
